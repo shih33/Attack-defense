@@ -2,6 +2,8 @@ https://github.com/8wingflying/NTHU2021/blob/main/week5_7_Linux%20exploitation/P
 
 https://github.com/8wingflying/NTHU2021/blob/main/week5_7_Linux%20exploitation/PWN3/Format_string_Vulnerability/3_Labs_fmt-2(write).md
 
+https://github.com/8wingflying/NTHU2021/blob/main/week5_7_Linux%20exploitation/PWN3/Format_string_Vulnerability/2_LAB1_fmtstr(read).md
+
 Format_string_Vulnerability攻擊模式1:
 
 練習題目
